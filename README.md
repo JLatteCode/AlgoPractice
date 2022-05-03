@@ -1,3 +1,3 @@
 # AlgoPractice
 
-Space to record some of algorithmns I wrote.
+Space to record algorithmns I wrote.
